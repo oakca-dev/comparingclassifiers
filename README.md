@@ -50,7 +50,6 @@ The models can help the bank prioritize customers who are more likely to subscri
 * Evaluate **precision, recall, F1 score, and confusion matrices** in addition to accuracy.
 * Pay particular attention to the positive `yes` class.
 * Investigate class-weighting techniques to improve identification of subscribers.
-* Evaluate the models **without `duration`** if predictions need to be made before contacting customers, since call duration is only known after the interaction.
 * Validate the selected model on additional or future customer data.
 
 ## Conclusion
